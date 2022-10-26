@@ -6,7 +6,6 @@ Segunda avaliação de PHP na Fatec Araras, Utilizando orientação a objetos e 
 ##  Código
 
 - Crie um cadastro em PHP OO com uso do banco de dados MySQL. O tema do cadastro fica a seu critério. Necessário ter pelo menos três campos no cadastro.
-- No seu portifólio, caprichar no README.md e não se esqueça de subir o dump do banco de dados, para que o professor possa recriar o seu ambiente de desevolvimento posteriormente.
 
 ### 1- Área de login/logout (30% da nota)
 - Com uso de sessões (sessions), criar uma área de login. Permitir encessar sessão (logout). Para realizar login/logout, necessário ter uma tabela para os nomes e senhas. O nome da tabela fica a seu critério. Os dados poderão estar previamente carregados.
