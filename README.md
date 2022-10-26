@@ -1,4 +1,4 @@
-## Primeira Avaliação DESENVOLVIMENTO WEB II
+## Segunda Avaliação DESENVOLVIMENTO WEB II
 Segunda avaliação de PHP na Fatec Araras, Utilizando orientação a objetos e mysql
 
 
